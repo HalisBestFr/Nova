@@ -1,1 +1,1 @@
-# Nova
+# Nova Hub Best scripts
